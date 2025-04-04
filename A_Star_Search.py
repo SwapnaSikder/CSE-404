@@ -5,7 +5,7 @@ graph = {
     "Sankar Bus Stand": [("Rapa Plaza", 1.2), ("Dhanmondi 32 Mirpur Road", 1.8), ("City College", 2.3)],
     "Mohammadpur Bus Stand": [("Rapa Plaza", 2.2), ("Asad Gate Police Box", 2.6)],
     "Rapa Plaza": [("Panthapath Signal", 1.6), ("Khamar Bari Gol Chattar", 1.5)],
-    "Dhanmondi 32 Mirpur Road": [("Panthapath Signal", 1.1), ("Khamar Bari Gol Chattar", 1.5)],
+    "Dhanmondi 32 Mirpur Road": [("Panthapath Signal", 1.1)],
     "City College": [("Panthapath Signal", 1.4)],
     "Asad Gate Police Box": [("Khamar Bari Gol Chattar", 1.2)],
     "Panthapath Signal": [("UAP", 0.5)],
